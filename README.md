@@ -1,4 +1,4 @@
-# Netfix-Recommendation-Syestum-Using-SVD
+# Netfix-Recommendation-System-Using-SVD
 
 Overview:-
 
